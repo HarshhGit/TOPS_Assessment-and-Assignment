@@ -1,0 +1,46 @@
+          ***Welcome To Store***
+
+ Bill No. : 1098
+ Customer Name : kohali
+ Customer Ph.No. : 12456
+-----------------------------------------
+ Product			 Qty	 Price
+-----------------------------------------
+Bath Soap			 2	 50
+Face Wash			 5	 250
+Hair Spray			 2	 160
+Body Lotion			 2	 150
+Food Oil 			 1	 150
+Daal 			 1	 50
+Wheat 			 1	 250
+Frooti 			 2	 80
+Nimkos 			 1	 50
+Biscuits 			 1	 30
+-----------------------------------------
+ Cosmetics Tax			 Rs.73.2
+ Grocery Tax			 Rs.22.5
+ Others Tax			 Rs.12.8
+-----------------------------------------
+Total Bill				 1328.5 
+-----------------------------------------
+			Thank You
+
+Bath Soap			 2	 50
+Face Cream			 1	 40
+Body Lotion			 2	 150
+Rice 			 1	 100
+Food Oil 			 1	 150
+Daal 			 1	 50
+Wheat 			 1	 250
+Maza 			 2	 180
+Frooti 			 2	 80
+Biscuits 			 1	 30
+-----------------------------------------
+ Cosmetics Tax			 Rs.28.8
+ Grocery Tax			 Rs.27.5
+ Others Tax			 Rs.23.2
+-----------------------------------------
+Total Bill				 1159.5 
+-----------------------------------------
+			Thank You
+
