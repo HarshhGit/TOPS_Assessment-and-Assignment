@@ -244,6 +244,18 @@ unique = set(dict1.values())
 
 print("Unique values from dictionary: ", unique)
 
+# One QA of theory that i forgot to complete.
+
+# 5] Why do you use the zip() method in python?
+#Ans:
+"""
+The zip() method in python is like a zipper for lists and tuples and other collections.it takes two or more 
+lists and zips them together, creating pairs of items from each list.
+zip() helps to work with multiple lists at the same time insted of handling them one by one you can group 
+related items together easily.
+
+"""
+
 
 """ Q.39}  Write a Python program to create and display all combinations of letters,
 selecting each letter from a different key in a dictionary.
